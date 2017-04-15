@@ -1,5 +1,5 @@
 function jsDropDown(imgid,newimg){
-	document.getElementById(imgid).src = "C:/Users/harri/OneDrive/Documents/MA Interactive Journalism/Data Journalism/Ambulance/" + newimg + ".png";
+	document.getElementById(imgid).src = "./" + newimg + ".png";
 }
 
 function myFunction() {
